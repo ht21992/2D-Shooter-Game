@@ -7,7 +7,7 @@ Shooter Platformer Game using Pygame
 ~~~
 1. install requirments.txt using the command below
     1.1 pip -r requirements.txt
-2. python main_gui.py
+2. python main.py
 
 ~~~
 
